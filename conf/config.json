@@ -1,0 +1,7 @@
+{
+	"SourceHost": "127.0.0.1",
+	"SourcePort": 3550,
+	"DestinationHost": "8.8.8.8",
+	"DestinationPort": 3550,
+	"VersionFix":  0
+}
